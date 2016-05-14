@@ -1,0 +1,13 @@
+// Funcion que muestra informacion en un popup.
+function onEachFeature(p_feature, p_layer) {
+    if (p_feature.properties) {
+        var v_popupString = '<div class="popup">';
+
+        for (var k in p_feature.properties) {
+            var v = p_feature.properties[k];
+            v_popupString += '<b>' + k + '</b>: ' + v + '<br />';
+        }
+        v_popupString += '</div>';
+        p_layer.bindPopup(v_popupString);
+    }
+}
