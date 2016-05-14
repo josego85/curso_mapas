@@ -9,3 +9,6 @@ Temas:
     * [Repaso](http://proyectosbeta.net/2016/05/curso-sobre-creacion-y-desarrollo-de-mapas-repaso-1/)
 * Parte 2: Conociendo el proyecto OSM
     * [Link](http://proyectosbeta.net/2016/05/curso-sobre-creacion-y-desarrollo-de-mapas-parte-2-conociendo-el-proyecto-osm/)
+* Parte 3: Usando marcadores y mostrando información
+    * [Link](http://proyectosbeta.net/2016/05/curso-sobre-creacion-y-desarrollo-de-mapas-parte-3-usando-marcadores-y-mostrando-informacion/)
+    * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_marcadores/)
