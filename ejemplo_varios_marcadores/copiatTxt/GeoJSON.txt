@@ -1,0 +1,50 @@
+// Datos GeoJSON.
+var geojsonFeature = {
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates":[
+                "-57.521591",
+                "-25.335409"
+            ]
+        },
+        "properties": {
+            "nombre": "Startup Weekend Asunci\u00f3n",
+            "lugar": "Aula Magna de la Facultad Polit\u00e9cnica de la Universidad Nacional de Asunci\u00f3n",
+            "fecha_inicio": "04-04-2014",
+            "fecha_fin": "06-04-2014"
+        }
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-57.521591",
+                "-25.335409"
+            ]
+        },
+        "properties":{
+            "nombre": "Festival Latinoamericano de Instalaci\u00f3n de Software Libre (FLISOL)",
+            "lugar": "Aula Magna de la Facultad Polit\u00e9cnica de la Universidad Nacional de Asunci\u00f3n",
+            "fecha_inicio": "26-04-2014",
+            "fecha_fin": "26-04-2014"
+        }
+    },{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                "-57.521591",
+                "-25.335409"
+            ]
+        },
+        "properties": {
+            "nombre": "Festival de Danza Paraguaya ",
+            "lugar": "Aula Magna de la Facultad Polit\u00e9cnica de la Universidad Nacional de Asunci\u00f3n",
+            "fecha_inicio": "21-06-2014",
+            "fecha_fin": "25-06-2014"
+        }
+    }]
+};
