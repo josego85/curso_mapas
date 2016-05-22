@@ -1,0 +1,7 @@
+// Se obtiene todos los barrios de Asuncion.
+$.getJSON("datos/Asuncion.geojson", function(data){
+    var layer_todos_barrios_asu = L.geoJson(data, {}).addTo(mapa);
+
+    // Se centra el layer de todos los barrios de Asuncion.
+    mapa.fitBounds(layer_todos_barrios_asu.getBounds());
+});
