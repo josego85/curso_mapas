@@ -16,3 +16,6 @@ Temas:
 * Parte 4: Varios marcadores en una misma posición
     * [Link](http://proyectosbeta.net/2016/05/curso-sobre-creacion-y-desarrollo-de-mapas-parte-4-varios-marcadores-en-una-misma-posicion/)
     * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_varios_marcadores/)
+* Parte 5: Agregar una leyenda
+    * [Link](http://proyectosbeta.net/2016/05/curso-sobre-creacion-y-desarrollo-de-mapas-parte-5-agregar-una-leyenda/)
+    * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_leyenda/)
