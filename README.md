@@ -19,6 +19,6 @@ Temas:
 * Parte 5: Agregar una leyenda
     * [Link](http://proyectosbeta.net/2016/05/curso-sobre-creacion-y-desarrollo-de-mapas-parte-5-agregar-una-leyenda/)
     * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_leyenda/)
-* Parte 6: Varias capas
-    * [Link](http://proyectosbeta.net/2016/05/curso-sobre-creacion-y-desarrollo-de-mapas-parte-6-varias-capas/)
-    * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_varias_capas/)
+* Parte 7: Heatmap
+    * [Link](http://proyectosbeta.net/2016/05/curso-sobre-creacion-y-desarrollo-de-mapas-parte-7-heatmap/)
+    * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_heatmap/)
