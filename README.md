@@ -22,3 +22,6 @@ Temas:
 * Parte 7: Heatmap
     * [Link](http://proyectosbeta.net/2016/05/curso-sobre-creacion-y-desarrollo-de-mapas-parte-7-heatmap/)
     * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_heatmap/)
+* Parte 8: Estaciones de Servicio usando operaciones geoespaciales en el navegador
+    * [Link](http://proyectosbeta.net/2016/07/curso-sobre-creacion-y-desarrollo-de-mapas-parte-8-estaciones-de-servicio/)
+    * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_estaciones_servicio/)
