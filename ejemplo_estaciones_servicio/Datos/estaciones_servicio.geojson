@@ -1,0 +1,3463 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-07-09T20:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/612015693",
+      "properties": {
+        "@id": "node/612015693",
+        "amenity": "fuel",
+        "name": "Barcos y Rodados",
+        "source": "TangoGPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5442462,
+          -25.3944601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612015737",
+      "properties": {
+        "@id": "node/612015737",
+        "amenity": "fuel",
+        "name": "Petrobras",
+        "source": "TangoGPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5106705,
+          -25.3367222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612015738",
+      "properties": {
+        "@id": "node/612015738",
+        "amenity": "fuel",
+        "name": "Copetrol",
+        "source": "TangoGPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5095161,
+          -25.3369011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/612015739",
+      "properties": {
+        "@id": "node/612015739",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol",
+        "source": "TangoGPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5095064,
+          -25.3371391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/618491525",
+      "properties": {
+        "@id": "node/618491525",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5134355,
+          -25.3526735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/845198703",
+      "properties": {
+        "@id": "node/845198703",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4942784,
+          -25.342104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/845198888",
+      "properties": {
+        "@id": "node/845198888",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5017886,
+          -25.3407077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/845199039",
+      "properties": {
+        "@id": "node/845199039",
+        "amenity": "fuel",
+        "brand": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5025295,
+          -25.3428591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/845199198",
+      "properties": {
+        "@id": "node/845199198",
+        "amenity": "fuel",
+        "fuel:alcohol": "yes",
+        "fuel:diesel": "yes",
+        "name": "Petrobras",
+        "operator": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4903778,
+          -25.3436387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/848793757",
+      "properties": {
+        "@id": "node/848793757",
+        "amenity": "fuel",
+        "brand": "Pertobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5361537,
+          -25.3343842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/970979019",
+      "properties": {
+        "@id": "node/970979019",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "description": "Estacion de Servicio",
+        "diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Copetrol",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5172206,
+          -25.3290072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1243922667",
+      "properties": {
+        "@id": "node/1243922667",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "name": "PetroBras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5649979,
+          -25.3011525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1243922698",
+      "properties": {
+        "@id": "node/1243922698",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.576754,
+          -25.2952283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1419137357",
+      "properties": {
+        "@id": "node/1419137357",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "name": "Esso Shop",
+        "operator": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5013094,
+          -25.2657184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439287696",
+      "properties": {
+        "@id": "node/1439287696",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "name": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6092586,
+          -25.3157174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439287699",
+      "properties": {
+        "@id": "node/1439287699",
+        "amenity": "fuel",
+        "brand": "BR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6085076,
+          -25.3158333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439318828",
+      "properties": {
+        "@id": "node/1439318828",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6010333,
+          -25.3236194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439318835",
+      "properties": {
+        "@id": "node/1439318835",
+        "amenity": "fuel",
+        "brand": "Puma",
+        "name": "Puma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6033993,
+          -25.3222883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439325085",
+      "properties": {
+        "@id": "node/1439325085",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.615833,
+          -25.3084592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439400414",
+      "properties": {
+        "@id": "node/1439400414",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5535817,
+          -25.3069346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439492484",
+      "properties": {
+        "@id": "node/1439492484",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "name": "Petrobras Aviadores",
+        "operator": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5711986,
+          -25.2864422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439492518",
+      "properties": {
+        "@id": "node/1439492518",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "name": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.589046,
+          -25.2863016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439569190",
+      "properties": {
+        "@id": "node/1439569190",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.619318,
+          -25.3153686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439569264",
+      "properties": {
+        "@id": "node/1439569264",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6133737,
+          -25.3168132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1439579142",
+      "properties": {
+        "@id": "node/1439579142",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5894484,
+          -25.3332703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1440287677",
+      "properties": {
+        "@id": "node/1440287677",
+        "amenity": "fuel",
+        "name": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5151859,
+          -25.2631738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1440324106",
+      "properties": {
+        "@id": "node/1440324106",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5631568,
+          -25.3021382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1440324114",
+      "properties": {
+        "@id": "node/1440324114",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "name": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5655193,
+          -25.3185795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1442743392",
+      "properties": {
+        "@id": "node/1442743392",
+        "amenity": "fuel",
+        "name": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5883734,
+          -25.3447408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1442852493",
+      "properties": {
+        "@id": "node/1442852493",
+        "amenity": "fuel",
+        "brand": "Puma",
+        "name": "Puma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5343225,
+          -25.3345445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1756775179",
+      "properties": {
+        "@id": "node/1756775179",
+        "amenity": "fuel",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6435472,
+          -25.2840666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1756775355",
+      "properties": {
+        "@id": "node/1756775355",
+        "amenity": "fuel",
+        "brand": "Texaco",
+        "fuel:diesel": "yes",
+        "fuel:e85": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Estación de Servicio Texaco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6478878,
+          -25.287967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1770460041",
+      "properties": {
+        "@id": "node/1770460041",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.7141996,
+          -25.2519203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1770500808",
+      "properties": {
+        "@id": "node/1770500808",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "operator": "YEIS S.R.L."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.7239958,
+          -25.2887857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1777454925",
+      "properties": {
+        "@id": "node/1777454925",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "fuel:diesel": "yes",
+        "fuel:e85": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6386205,
+          -25.290994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1782790044",
+      "properties": {
+        "@id": "node/1782790044",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5067963,
+          -25.3127251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1782833039",
+      "properties": {
+        "@id": "node/1782833039",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5081427,
+          -25.3207557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1783276885",
+      "properties": {
+        "@id": "node/1783276885",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5851581,
+          -25.3386709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1811253769",
+      "properties": {
+        "@id": "node/1811253769",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6318704,
+          -25.3090455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1811255959",
+      "properties": {
+        "@id": "node/1811255959",
+        "amenity": "fuel",
+        "brand": "Puma",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Puma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6315462,
+          -25.3085288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1838363647",
+      "properties": {
+        "@id": "node/1838363647",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5991976,
+          -25.319145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1849783823",
+      "properties": {
+        "@id": "node/1849783823",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4940534,
+          -25.3426503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1850525008",
+      "properties": {
+        "@id": "node/1850525008",
+        "amenity": "fuel",
+        "name": "Estacion de Servicio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5975867,
+          -25.3084481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1850528903",
+      "properties": {
+        "@id": "node/1850528903",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "fuel:diesel": "yes",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6021974,
+          -25.306952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1999771926",
+      "properties": {
+        "@id": "node/1999771926",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.602637,
+          -25.2883587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2085643963",
+      "properties": {
+        "@id": "node/2085643963",
+        "amenity": "fuel",
+        "brand": "Barcos y Rodados",
+        "name": "Barcos y Rodados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3282266,
+          -25.398824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2085644585",
+      "properties": {
+        "@id": "node/2085644585",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "name": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3229453,
+          -25.4002947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2212336639",
+      "properties": {
+        "@id": "node/2212336639",
+        "amenity": "fuel",
+        "name": "Estacion de Servicio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5959701,
+          -25.3084669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2277119222",
+      "properties": {
+        "@id": "node/2277119222",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "name": "Petrobras Laurelty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4998517,
+          -25.2876961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2285560963",
+      "properties": {
+        "@id": "node/2285560963",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4838426,
+          -25.2818004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2289276492",
+      "properties": {
+        "@id": "node/2289276492",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.49874,
+          -25.3467651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2289293887",
+      "properties": {
+        "@id": "node/2289293887",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5256607,
+          -25.3181671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2289296741",
+      "properties": {
+        "@id": "node/2289296741",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "name": "Esso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5306041,
+          -25.3107186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2314464899",
+      "properties": {
+        "@id": "node/2314464899",
+        "amenity": "fuel",
+        "name": "Estacion de Servicio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5265052,
+          -25.2900766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2314617648",
+      "properties": {
+        "@id": "node/2314617648",
+        "amenity": "fuel",
+        "name": "Estacion de Servicio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5329639,
+          -25.2805794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2394186741",
+      "properties": {
+        "@id": "node/2394186741",
+        "amenity": "fuel",
+        "name": "BR ARATIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4798198,
+          -25.3457013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2402991740",
+      "properties": {
+        "@id": "node/2402991740",
+        "amenity": "fuel",
+        "name": "PUMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5476128,
+          -25.3436579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2405369355",
+      "properties": {
+        "@id": "node/2405369355",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4822786,
+          -25.2740993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2411381307",
+      "properties": {
+        "@id": "node/2411381307",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6178185,
+          -25.3437531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2444397600",
+      "properties": {
+        "@id": "node/2444397600",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "building": "yes",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5390812,
+          -25.302516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2444438759",
+      "properties": {
+        "@id": "node/2444438759",
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "Petrosur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.538214,
+          -25.3039235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2444450257",
+      "properties": {
+        "@id": "node/2444450257",
+        "amenity": "fuel",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5448728,
+          -25.2986551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2444450259",
+      "properties": {
+        "@id": "node/2444450259",
+        "amenity": "fuel",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5454879,
+          -25.2980459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2545925183",
+      "properties": {
+        "@id": "node/2545925183",
+        "addr:city": "Lambaré",
+        "addr:housename": "Av. Bruno Guggiari",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "building": "yes",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6141108,
+          -25.3193749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2621131568",
+      "properties": {
+        "@id": "node/2621131568",
+        "amenity": "fuel",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5099884,
+          -25.2641749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2645946721",
+      "properties": {
+        "@id": "node/2645946721",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol",
+        "operator": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5095529,
+          -25.3392496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2646167532",
+      "properties": {
+        "@id": "node/2646167532",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5374057,
+          -25.4269809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2646171956",
+      "properties": {
+        "@id": "node/2646171956",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5387682,
+          -25.4221821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2646187596",
+      "properties": {
+        "@id": "node/2646187596",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5516965,
+          -25.4334148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2648199641",
+      "properties": {
+        "@id": "node/2648199641",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5385396,
+          -25.2344148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2669622257",
+      "properties": {
+        "@id": "node/2669622257",
+        "amenity": "fuel",
+        "brand": "Petrosur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.513957,
+          -25.3448869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2669622267",
+      "properties": {
+        "@id": "node/2669622267",
+        "amenity": "fuel",
+        "brand": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5126395,
+          -25.3471904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2669622277",
+      "properties": {
+        "@id": "node/2669622277",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4933074,
+          -25.3499023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2669622285",
+      "properties": {
+        "@id": "node/2669622285",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4896605,
+          -25.3543237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2669622287",
+      "properties": {
+        "@id": "node/2669622287",
+        "amenity": "fuel",
+        "brand": "Integral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4887048,
+          -25.3555813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2669622290",
+      "properties": {
+        "@id": "node/2669622290",
+        "amenity": "fuel",
+        "brand": "BR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4869515,
+          -25.3580903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2669622293",
+      "properties": {
+        "@id": "node/2669622293",
+        "amenity": "fuel",
+        "brand": "BR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4832788,
+          -25.3631496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2669622325",
+      "properties": {
+        "@id": "node/2669622325",
+        "addr:city": "Capiatá",
+        "addr:street": "Mcal Francisco Solano López",
+        "amenity": "fuel",
+        "brand": "BR",
+        "name": "B&R",
+        "operator": "Barcos y Rodados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4750267,
+          -25.3787843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2669622326",
+      "properties": {
+        "@id": "node/2669622326",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol",
+        "operator": "Copetrol S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4697506,
+          -25.3898664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2669622327",
+      "properties": {
+        "@id": "node/2669622327",
+        "amenity": "fuel",
+        "brand": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.468913,
+          -25.3922423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2707591990",
+      "properties": {
+        "@id": "node/2707591990",
+        "amenity": "fuel",
+        "name": "Bahía"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6059085,
+          -25.3426875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2710681441",
+      "properties": {
+        "@id": "node/2710681441",
+        "amenity": "fuel",
+        "name": "Estación de Servicio COPETROL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5491581,
+          -25.3567968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727183218",
+      "properties": {
+        "@id": "node/2727183218",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4743194,
+          -25.1592018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727187742",
+      "properties": {
+        "@id": "node/2727187742",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4567455,
+          -25.1410314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727187744",
+      "properties": {
+        "@id": "node/2727187744",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.457003,
+          -25.1431144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727236128",
+      "properties": {
+        "@id": "node/2727236128",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3570962,
+          -25.1230206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727236498",
+      "properties": {
+        "@id": "node/2727236498",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3555136,
+          -25.1233775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2727237642",
+      "properties": {
+        "@id": "node/2727237642",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.340284,
+          -25.1244412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2739101416",
+      "properties": {
+        "@id": "node/2739101416",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4429491,
+          -25.3835475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2774912782",
+      "properties": {
+        "@id": "node/2774912782",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5377724,
+          -25.1913979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2775358297",
+      "properties": {
+        "@id": "node/2775358297",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.7185803,
+          -25.2620159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779039388",
+      "properties": {
+        "@id": "node/2779039388",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5984489,
+          -25.3562956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779039429",
+      "properties": {
+        "@id": "node/2779039429",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5951766,
+          -25.3582783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779119006",
+      "properties": {
+        "@id": "node/2779119006",
+        "amenity": "fuel",
+        "name": "Petrosur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6117245,
+          -25.3542327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779131156",
+      "properties": {
+        "@id": "node/2779131156",
+        "amenity": "fuel",
+        "name": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6201579,
+          -25.355457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779430673",
+      "properties": {
+        "@id": "node/2779430673",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6255867,
+          -25.3521365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779547826",
+      "properties": {
+        "@id": "node/2779547826",
+        "amenity": "fuel",
+        "brand": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.624701,
+          -25.3422356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779553242",
+      "properties": {
+        "@id": "node/2779553242",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.591742,
+          -25.332694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779620055",
+      "properties": {
+        "@id": "node/2779620055",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6204577,
+          -25.3326889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779620057",
+      "properties": {
+        "@id": "node/2779620057",
+        "addr:street": "Pedro Bruno Guggiari",
+        "amenity": "fuel",
+        "name": "BARCOS&RODADOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6179096,
+          -25.3278162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779638238",
+      "properties": {
+        "@id": "node/2779638238",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6167241,
+          -25.3243491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2779868198",
+      "properties": {
+        "@id": "node/2779868198",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5879983,
+          -25.2849374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2780321949",
+      "properties": {
+        "@id": "node/2780321949",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5553739,
+          -25.3134485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2780820592",
+      "properties": {
+        "@id": "node/2780820592",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5716587,
+          -25.2559982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2780912373",
+      "properties": {
+        "@id": "node/2780912373",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5590041,
+          -25.2530554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2781219410",
+      "properties": {
+        "@id": "node/2781219410",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "name": "Axion Energy \"Esso\" Las Mercedes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6142652,
+          -25.2868557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2781932313",
+      "properties": {
+        "@id": "node/2781932313",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5258146,
+          -25.2012475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2789805118",
+      "properties": {
+        "@id": "node/2789805118",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "name": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5953443,
+          -25.3228996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2789826731",
+      "properties": {
+        "@id": "node/2789826731",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5999387,
+          -25.3294889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2790273478",
+      "properties": {
+        "@id": "node/2790273478",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5893777,
+          -25.3650306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2790273581",
+      "properties": {
+        "@id": "node/2790273581",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5843995,
+          -25.370387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2790283928",
+      "properties": {
+        "@id": "node/2790283928",
+        "amenity": "fuel",
+        "name": "Ypane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5882565,
+          -25.3665868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2790372023",
+      "properties": {
+        "@id": "node/2790372023",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6318963,
+          -25.2999363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2790476795",
+      "properties": {
+        "@id": "node/2790476795",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6392209,
+          -25.3096465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2792419340",
+      "properties": {
+        "@id": "node/2792419340",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6679016,
+          -25.2946718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2792766856",
+      "properties": {
+        "@id": "node/2792766856",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5680264,
+          -25.3348624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2793011287",
+      "properties": {
+        "@id": "node/2793011287",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.564977,
+          -25.323999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2793199733",
+      "properties": {
+        "@id": "node/2793199733",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6022308,
+          -25.3416646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2793215525",
+      "properties": {
+        "@id": "node/2793215525",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5922852,
+          -25.3314974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2793244753",
+      "properties": {
+        "@id": "node/2793244753",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6035806,
+          -25.3272569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2794588742",
+      "properties": {
+        "@id": "node/2794588742",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.595344,
+          -25.3011477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2794618164",
+      "properties": {
+        "@id": "node/2794618164",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5972389,
+          -25.2911384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2795052211",
+      "properties": {
+        "@id": "node/2795052211",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5720666,
+          -25.3172562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2795057284",
+      "properties": {
+        "@id": "node/2795057284",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5905516,
+          -25.3386491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2795769744",
+      "properties": {
+        "@id": "node/2795769744",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "fuel:alcohol": "yes",
+        "name": "Petrobras",
+        "note": "tiene alcohol",
+        "operator": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5850798,
+          -25.3123346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2805698851",
+      "properties": {
+        "@id": "node/2805698851",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6297795,
+          -25.3159884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2805729635",
+      "properties": {
+        "@id": "node/2805729635",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6268434,
+          -25.3274912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2808726640",
+      "properties": {
+        "@id": "node/2808726640",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6069266,
+          -25.3040569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2808779955",
+      "properties": {
+        "@id": "node/2808779955",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6064147,
+          -25.2932849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2809938544",
+      "properties": {
+        "@id": "node/2809938544",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6082323,
+          -25.274574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2810676545",
+      "properties": {
+        "@id": "node/2810676545",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5536771,
+          -25.3074972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2811036163",
+      "properties": {
+        "@id": "node/2811036163",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "name": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5664035,
+          -25.3005634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2811081480",
+      "properties": {
+        "@id": "node/2811081480",
+        "amenity": "fuel",
+        "brand": "Copetrol",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5615582,
+          -25.2929163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2812952486",
+      "properties": {
+        "@id": "node/2812952486",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.587874,
+          -25.3440105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813038606",
+      "properties": {
+        "@id": "node/2813038606",
+        "addr:city": "Fernando de la Mora",
+        "addr:street": "Acceso Sur",
+        "amenity": "fuel",
+        "name": "Estación de Servicio Petrobras",
+        "opening_hours": "24/7",
+        "operator": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5742685,
+          -25.3488205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813038617",
+      "properties": {
+        "@id": "node/2813038617",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5793486,
+          -25.3456814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813038620",
+      "properties": {
+        "@id": "node/2813038620",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5780731,
+          -25.346003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813042822",
+      "properties": {
+        "@id": "node/2813042822",
+        "addr:city": "Fernando de la Mora",
+        "addr:street": "Acceso Sur",
+        "amenity": "fuel",
+        "name": "Estación de Servicio Copetrol",
+        "opening_hours": "24/7",
+        "operator": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5713434,
+          -25.3529306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813049841",
+      "properties": {
+        "@id": "node/2813049841",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5699996,
+          -25.3563894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813131631",
+      "properties": {
+        "@id": "node/2813131631",
+        "amenity": "fuel",
+        "operator": "Barcos y Rodados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5656492,
+          -25.3630037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813133850",
+      "properties": {
+        "@id": "node/2813133850",
+        "amenity": "fuel",
+        "operator": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5632422,
+          -25.3663297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813133852",
+      "properties": {
+        "@id": "node/2813133852",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5614129,
+          -25.3680843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813163409",
+      "properties": {
+        "@id": "node/2813163409",
+        "amenity": "fuel",
+        "name": "Puma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5841315,
+          -25.3836281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813379005",
+      "properties": {
+        "@id": "node/2813379005",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5535806,
+          -25.2506593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2813802941",
+      "properties": {
+        "@id": "node/2813802941",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5305114,
+          -25.3289703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2815458166",
+      "properties": {
+        "@id": "node/2815458166",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5787054,
+          -25.2519636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2822593654",
+      "properties": {
+        "@id": "node/2822593654",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5963323,
+          -25.2652939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2822612659",
+      "properties": {
+        "@id": "node/2822612659",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5882455,
+          -25.2597657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2823896191",
+      "properties": {
+        "@id": "node/2823896191",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6375414,
+          -25.2870908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2824694663",
+      "properties": {
+        "@id": "node/2824694663",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5422941,
+          -25.2394261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2825947336",
+      "properties": {
+        "@id": "node/2825947336",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5509269,
+          -25.257858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2826057921",
+      "properties": {
+        "@id": "node/2826057921",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5631978,
+          -25.2688726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2826974058",
+      "properties": {
+        "@id": "node/2826974058",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4908486,
+          -25.180942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2833214112",
+      "properties": {
+        "@id": "node/2833214112",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5022539,
+          -25.2708455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2835985591",
+      "properties": {
+        "@id": "node/2835985591",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5174676,
+          -25.3721809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2837591394",
+      "properties": {
+        "@id": "node/2837591394",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5513647,
+          -25.3826021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2837594739",
+      "properties": {
+        "@id": "node/2837594739",
+        "amenity": "fuel",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.547674,
+          -25.3880692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2838037960",
+      "properties": {
+        "@id": "node/2838037960",
+        "amenity": "fuel",
+        "name": "BR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4801849,
+          -25.2623803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2838114650",
+      "properties": {
+        "@id": "node/2838114650",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4958382,
+          -25.1873345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2839044988",
+      "properties": {
+        "@id": "node/2839044988",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5674149,
+          -25.3558011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2839508269",
+      "properties": {
+        "@id": "node/2839508269",
+        "amenity": "fuel",
+        "name": "Estación Puma Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5524022,
+          -25.3570903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2839508274",
+      "properties": {
+        "@id": "node/2839508274",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5592525,
+          -25.3562565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2839566766",
+      "properties": {
+        "@id": "node/2839566766",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.542993,
+          -25.3249804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2839566771",
+      "properties": {
+        "@id": "node/2839566771",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5376339,
+          -25.3184343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2839673756",
+      "properties": {
+        "@id": "node/2839673756",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5282142,
+          -25.3148166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2839992451",
+      "properties": {
+        "@id": "node/2839992451",
+        "amenity": "fuel",
+        "name": "BR ARATIRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.479542,
+          -25.3451024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2840006787",
+      "properties": {
+        "@id": "node/2840006787",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4906839,
+          -25.3338643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2841284490",
+      "properties": {
+        "@id": "node/2841284490",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.2959926,
+          -25.4036033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2841460942",
+      "properties": {
+        "@id": "node/2841460942",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3608371,
+          -25.3889933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2920763515",
+      "properties": {
+        "@id": "node/2920763515",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3737961,
+          -25.3832585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2948476263",
+      "properties": {
+        "@id": "node/2948476263",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5343346,
+          -25.3983759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2948476264",
+      "properties": {
+        "@id": "node/2948476264",
+        "amenity": "fuel",
+        "name": "Puma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5311794,
+          -25.3969515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2989220344",
+      "properties": {
+        "@id": "node/2989220344",
+        "amenity": "fuel",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5845729,
+          -25.3767437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2989221751",
+      "properties": {
+        "@id": "node/2989221751",
+        "amenity": "fuel",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5832827,
+          -25.3861463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3048300715",
+      "properties": {
+        "@id": "node/3048300715",
+        "addr:city": "Capiatá",
+        "amenity": "fuel",
+        "operator": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4557835,
+          -25.3752256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3048300726",
+      "properties": {
+        "@id": "node/3048300726",
+        "addr:city": "Capiatá",
+        "addr:street": "Mcal Franciso Solano López",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "name": "Petropar",
+        "operator": "Petropar",
+        "website": "http://www.petropar.gov.py/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.469982,
+          -25.3891086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3048878980",
+      "properties": {
+        "@id": "node/3048878980",
+        "addr:city": "Capiatá",
+        "addr:street": "Doctor Pedro López Godoy",
+        "amenity": "fuel",
+        "name": "B&R",
+        "opening_hours": "24/7",
+        "operator": "Barcos y Rodados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4446771,
+          -25.3607289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3049822603",
+      "properties": {
+        "@id": "node/3049822603",
+        "amenity": "fuel",
+        "brand": "Esso",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "operator": "MADRASSI Y CIA. S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.7233327,
+          -25.2870549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3049822605",
+      "properties": {
+        "@id": "node/3049822605",
+        "amenity": "fuel",
+        "brand": "Bandera Blanca",
+        "name": "Loyola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.7324569,
+          -25.2803245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3088263394",
+      "properties": {
+        "@id": "node/3088263394",
+        "amenity": "fuel",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5444634,
+          -25.3984808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3229818046",
+      "properties": {
+        "@id": "node/3229818046",
+        "addr:city": "Aregua",
+        "addr:street": "ruta Ramal Areguá",
+        "amenity": "fuel",
+        "name": "Estación de Servicio Coyo",
+        "opening_hours": "04:00 am a 22:00 pm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4106191,
+          -25.3404823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3237272548",
+      "properties": {
+        "@id": "node/3237272548",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.539809,
+          -25.190519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3304934645",
+      "properties": {
+        "@id": "node/3304934645",
+        "amenity": "fuel",
+        "brand": "Barcos & Rodados",
+        "name": "Barcos & Rodados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6427555,
+          -25.2911503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3314439971",
+      "properties": {
+        "@id": "node/3314439971",
+        "amenity": "fuel",
+        "name": "PETROBRAS \"Avenida Del Agrónomo\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5180126,
+          -25.3428455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3373884186",
+      "properties": {
+        "@id": "node/3373884186",
+        "addr:city": "Ñemby",
+        "addr:street": "Acceso Sur",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5384869,
+          -25.4238469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3379786380",
+      "properties": {
+        "@id": "node/3379786380",
+        "amenity": "fuel",
+        "brand": "Puma",
+        "name": "Puma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5890282,
+          -25.2867022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3428105635",
+      "properties": {
+        "@id": "node/3428105635",
+        "amenity": "fuel",
+        "brand": "YPF",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "operator": "ACA CLORINDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.7327921,
+          -25.322053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3435628380",
+      "properties": {
+        "@id": "node/3435628380",
+        "amenity": "fuel",
+        "brand": "Puma",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3934269,
+          -25.3244653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3539923866",
+      "properties": {
+        "@id": "node/3539923866",
+        "amenity": "fuel",
+        "name": "Barcos y Rodados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4457245,
+          -25.3519076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3539926900",
+      "properties": {
+        "@id": "node/3539926900",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.43879,
+          -25.3573801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3539947603",
+      "properties": {
+        "@id": "node/3539947603",
+        "amenity": "fuel",
+        "name": "Puma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4320786,
+          -25.3606659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3539947604",
+      "properties": {
+        "@id": "node/3539947604",
+        "amenity": "fuel",
+        "name": "Petrobras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4280166,
+          -25.3623393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3630188813",
+      "properties": {
+        "@id": "node/3630188813",
+        "amenity": "fuel",
+        "name": "Copetrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.3480424,
+          -25.3959993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3666118684",
+      "properties": {
+        "@id": "node/3666118684",
+        "amenity": "fuel",
+        "brand": "Petrobras",
+        "name": "Petrobras Touring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6250842,
+          -25.2890146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3668571832",
+      "properties": {
+        "@id": "node/3668571832",
+        "amenity": "fuel",
+        "name": "Estacion de Servicio Petrosur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5219123,
+          -25.3505747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3683086261",
+      "properties": {
+        "@id": "node/3683086261",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6350801,
+          -25.2934928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3684104025",
+      "properties": {
+        "@id": "node/3684104025",
+        "amenity": "fuel",
+        "name": "COPEG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4886955,
+          -25.2537099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3688504025",
+      "properties": {
+        "@id": "node/3688504025",
+        "amenity": "fuel",
+        "brand": "Barcos & Rodados",
+        "name": "Barcos & Rodados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6004235,
+          -25.2813647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3688504026",
+      "properties": {
+        "@id": "node/3688504026",
+        "amenity": "fuel",
+        "brand": "Barcos & Rodados",
+        "name": "Barcos & Rodados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6162271,
+          -25.2845564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698964752",
+      "properties": {
+        "@id": "node/3698964752",
+        "amenity": "fuel",
+        "name": "BR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4911614,
+          -25.2624282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3752961650",
+      "properties": {
+        "@id": "node/3752961650",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6429735,
+          -25.2802813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3753322125",
+      "properties": {
+        "@id": "node/3753322125",
+        "amenity": "fuel",
+        "brand": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.617414,
+          -25.3759482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3756752925",
+      "properties": {
+        "@id": "node/3756752925",
+        "amenity": "fuel",
+        "brand": "Puma",
+        "name": "Puma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5954364,
+          -25.3274374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3796868817",
+      "properties": {
+        "@id": "node/3796868817",
+        "amenity": "fuel",
+        "name": "COPETROL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4743172,
+          -25.2380614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3796873931",
+      "properties": {
+        "@id": "node/3796873931",
+        "amenity": "fuel",
+        "name": "COPEG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4747286,
+          -25.2390225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3918718287",
+      "properties": {
+        "@id": "node/3918718287",
+        "amenity": "fuel",
+        "brand": "Bandera Blanca",
+        "operator": "YUNKA COMBUSTIBLE S.A."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.7252982,
+          -25.2933943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4088012882",
+      "properties": {
+        "@id": "node/4088012882",
+        "amenity": "fuel",
+        "name": "Barcos & Rodados",
+        "operator": "Barcos & Rodados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5304649,
+          -25.217462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4106889192",
+      "properties": {
+        "@id": "node/4106889192",
+        "amenity": "fuel",
+        "name": "Petropar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.6102935,
+          -25.3544705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4119542090",
+      "properties": {
+        "@id": "node/4119542090",
+        "addr:street": "Manuel Ortíz Guerrero",
+        "amenity": "fuel",
+        "name": "Barcos y Rodados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5154281,
+          -25.3629747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4144133886",
+      "properties": {
+        "@id": "node/4144133886",
+        "amenity": "fuel",
+        "name": "BR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4523764,
+          -25.3493084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4219798691",
+      "properties": {
+        "@id": "node/4219798691",
+        "addr:street": "Capitán Andrés Insfran",
+        "amenity": "fuel",
+        "name": "Puma Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4967468,
+          -25.2747768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4222736895",
+      "properties": {
+        "@id": "node/4222736895",
+        "amenity": "fuel",
+        "name": "Puma Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4877238,
+          -25.264538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4258914190",
+      "properties": {
+        "@id": "node/4258914190",
+        "amenity": "fuel",
+        "name": "Puma energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4966185,
+          -25.2739791
+        ]
+      }
+    }
+  ]
+}

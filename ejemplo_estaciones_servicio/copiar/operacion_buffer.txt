@@ -1,0 +1,34 @@
+// Operacion buffer.
+function operacion_buffer(data_estaciones_servicio, data_avenida) {
+    var radio = 300;
+    var buffer = turf.buffer(data_avenida, radio/1000, 'kilometers');
+    var bufferLayer = L.geoJson(buffer, {
+        onEachFeature: function (feature, layer) {
+            layer.bindPopup('Avenida Espanha');
+        },
+        style: {
+            stroke: false,
+            fillOpacity: 0
+        }
+    }).addTo(mapa);
+    var estaciones_servicio_dentro = turf.within(data_estaciones_servicio, buffer);
+    var layer_estaciones_servicio_dentro = L.geoJson(estaciones_servicio_dentro, {
+          onEachFeature: function(feature, layer) {
+               var info = "";
+               for(var i in feature.properties){
+                   if(!(i === "@id" || i === "amenity")){
+                       info += i + ": " + feature.properties[i] + "<br>";
+                   }
+               }
+               layer.bindPopup(info);
+          },
+          pointToLayer: function (feature, latlng) {
+              return L.circleMarker(latlng);
+          },
+          style: {
+              radius: 8,
+              fillColor: "red",
+              weight: 1
+          }
+    }).addTo(mapa);
+}
