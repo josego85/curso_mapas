@@ -1,0 +1,51 @@
+var layerPoligonos;
+var seleccionadoPoligono;
+
+// Hacer llamada ajax.
+$.ajax({
+    url: "datos/poligonos.geojson",
+    dataType: 'json',
+    type: 'post',
+    success: function(datos){
+        // Funcion que devuelve el estilo de un poligono.
+        function estilo_poligno(feature){
+            return {
+              fillColor: feature.properties.color,
+              weight: 2,
+              opacity: 1,
+              color: 'white',
+              dashArray: '3',
+              fillOpacity: 0.7
+           };
+        }
+        layerPoligonos = L.geoJson(datos, {
+            style: estilo_poligno,
+        }).on('click', function (e) {
+            resetSeleccion(e);
+
+            // Se asigna al poligono seleccionado.
+            seleccionadoPoligono = e.layer;
+
+            // Traer en frente al poligono seleccionado.
+            seleccionadoPoligono.bringToFront();
+
+            // Setear estilo para resaltar que esta seleccionado.
+            seleccionadoPoligono.setStyle({
+                'color': 'red',
+                'fillColor': 'red',
+                'weight': 4,
+            });
+        }).addTo(mapa);
+    },
+    error: function(msg) {
+        console.log("Error!!!");
+    }
+});
+
+function resetSeleccion(e) {
+    // Checkear el poligono seleccionado.
+    if (seleccionadoPoligono) {
+        // Resetear el poligono al estilo por defecto.
+        layerPoligonos.resetStyle(seleccionadoPoligono);
+    }
+}
