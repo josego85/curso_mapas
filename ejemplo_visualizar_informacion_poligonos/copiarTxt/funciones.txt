@@ -1,0 +1,27 @@
+mapa.on('click', function(e) {
+        // Se borra la informacion de los lotes.
+        $('#info').html("");
+
+        // Se deselecciona el poligono.
+        resetSeleccion(e);
+    });
+
+	// e = event
+    function clickPoligono(e) {
+        var properties = e.target.feature.properties;
+        var informacion = '';
+        if (properties) {
+            for (var k in properties) {
+                var v = properties[k];
+                informacion += '<b>' + k + '</b>: ' + v + '<br />';
+            }
+        }
+        $('#info').html(informacion);
+    }
+
+	function onEachFeature(feature, layer) {
+        // bind click.
+        layer.on({
+            click: clickPoligono
+        });
+    }
