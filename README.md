@@ -25,6 +25,9 @@ Temas:
 * Parte 8: Estaciones de Servicio usando operaciones geoespaciales en el navegador
     * [Link](http://proyectosbeta.net/2016/07/curso-sobre-creacion-y-desarrollo-de-mapas-parte-8-estaciones-de-servicio/)
     * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_estaciones_servicio/)
-* Parte 9: Seleccionar polígonos 
+* Parte 9: Seleccionar polígonos
     * [Link](http://proyectosbeta.net/2016/08/curso-sobre-creacion-y-desarrollo-de-mapas-parte-9-seleccionar-poligonos/)
     * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_seleccionar_poligonos/)
+* Parte 10: Visualizar información de los polígonos
+    * [Link](http://proyectosbeta.net/2016/08/curso-sobre-creacion-y-desarrollo-de-mapas-parte-10-visualizar-informacion-de-los-poligonos/)
+    * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_visualizar_informacion_poligonos/)
