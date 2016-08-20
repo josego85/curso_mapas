@@ -31,3 +31,6 @@ Temas:
 * Parte 10: Visualizar información de los polígonos
     * [Link](http://proyectosbeta.net/2016/08/curso-sobre-creacion-y-desarrollo-de-mapas-parte-10-visualizar-informacion-de-los-poligonos/)
     * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_visualizar_informacion_poligonos/)
+* Parte 11: minZoom, maxZoom y maxBounds en el mapa
+    * [Link](http://proyectosbeta.net/2016/08/curso-sobre-creacion-y-desarrollo-de-mapas-parte-11-minzoom-maxzoom-y-maxbounds-en-el-mapa/)
+    * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_propiedades_mapa/)
