@@ -34,3 +34,7 @@ Temas:
 * Parte 11: minZoom, maxZoom y maxBounds en el mapa
     * [Link](http://proyectosbeta.net/2016/08/curso-sobre-creacion-y-desarrollo-de-mapas-parte-11-minzoom-maxzoom-y-maxbounds-en-el-mapa/)
     * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_propiedades_mapa/)
+* Parte 12: Base de datos espaciales
+    * [Link](http://proyectosbeta.net/2016/08/curso-sobre-creacion-y-desarrollo-de-mapas-parte-12-base-de-datos-espaciales/)
+* Parte 13: Convertir un shp a GeoJSON
+    * [Link](http://proyectosbeta.net/2016/08/curso-sobre-creacion-y-desarrollo-de-mapas-parte-13-convertir-un-shp-a-geojson/)
