@@ -38,3 +38,5 @@ Temas:
     * [Link](http://proyectosbeta.net/2016/08/curso-sobre-creacion-y-desarrollo-de-mapas-parte-12-base-de-datos-espaciales/)
 * Parte 13: Convertir un shp a GeoJSON
     * [Link](http://proyectosbeta.net/2016/08/curso-sobre-creacion-y-desarrollo-de-mapas-parte-13-convertir-un-shp-a-geojson/)
+* Parte 14: Abrir un archivo GPX en QGIS
+    * [Link](http://proyectosbeta.net/2016/09/curso-sobre-creacion-y-desarrollo-de-mapas-parte-14-abrir-un-archivo-gpx-en-qgis/)
