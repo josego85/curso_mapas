@@ -40,3 +40,6 @@ Temas:
     * [Link](http://proyectosbeta.net/2016/08/curso-sobre-creacion-y-desarrollo-de-mapas-parte-13-convertir-un-shp-a-geojson/)
 * Parte 14: Abrir un archivo GPX en QGIS
     * [Link](http://proyectosbeta.net/2016/09/curso-sobre-creacion-y-desarrollo-de-mapas-parte-14-abrir-un-archivo-gpx-en-qgis/)
+* Parte 15: Agregar un layer de Nokia Here
+    * [Link](http://proyectosbeta.net/2016/09/curso-sobre-creacion-y-desarrollo-de-mapas-parte-15-agregar-un-layer-de-nokia-here/)
+    * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_layer_nokia_here/)
