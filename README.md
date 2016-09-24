@@ -43,6 +43,6 @@ Temas:
 * Parte 15: Agregar un layer de Nokia Here
     * [Link](http://proyectosbeta.net/2016/09/curso-sobre-creacion-y-desarrollo-de-mapas-parte-15-agregar-un-layer-de-nokia-here/)
     * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_layer_nokia_here/)
- Parte 16: Agregar plugins en Leaflet
+* Parte 16: Agregar plugins en Leaflet
     * [Link](http://proyectosbeta.net/2016/09/curso-sobre-creacion-y-desarrollo-de-mapas-parte-16-agregar-plugins-en-leaflet/)
     * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_agregar_plugin_leaflet/)
