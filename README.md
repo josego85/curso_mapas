@@ -46,3 +46,5 @@ Temas:
 * Parte 16: Agregar plugins en Leaflet
     * [Link](http://proyectosbeta.net/2016/09/curso-sobre-creacion-y-desarrollo-de-mapas-parte-16-agregar-plugins-en-leaflet/)
     * [Demo](http://proyectosbeta.net/curso_mapas/ejemplo_agregar_plugin_leaflet/)
+* Parte 17: Máquina virtual VirtualBox – Servidor de Mapas
+    * [Link](http://proyectosbeta.net/2016/10/curso-sobre-creacion-y-desarrollo-de-mapas-parte-17-maquina-virtual-virtualbox-servidor-de-mapas/)
